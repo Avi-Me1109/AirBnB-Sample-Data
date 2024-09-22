@@ -45,6 +45,7 @@ The script calculates the following correlations and generates corresponding sca
 
 Each correlation and its scatter plot are displayed sequentially.
 - Correlation Beds vs Price: 0.3976761197658033
+  
   ![Beds v Price](https://github.com/user-attachments/assets/052f9e16-33f7-4a75-9e43-6f9afc13bfe6)
 
 
